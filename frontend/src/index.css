@@ -1,0 +1,16 @@
+main{
+
+min-height: 90vh;
+
+}
+h3{
+    margin: 1rem 0;
+}
+.rating span{
+
+    margin: 0.1rem;
+}
+.btn-block:hover{
+background:grey;
+
+}
